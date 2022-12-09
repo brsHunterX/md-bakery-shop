@@ -8,10 +8,13 @@ A simple bakery project made in Flutter as a case study for Material Design 3.0 
 
 <img src="https://user-images.githubusercontent.com/22013558/206801197-e2f7aa71-aced-4ae2-87b7-baf4d4006b2b.gif" height="350" alt="App example" />
 
+The courses used as a basis for creating the project:
+- https://www.udemy.com/share/102BJd3@nxloU9gjuNEueDiaNN4M2hduHFK1cs4IlYSU7e4xEZogRJKlrclPnSaPGOPsin7R/
+
 ## Features
 
-- Full Material Design 3.0
-- Dynamic Theme Colors Scheme
+- Material Design 3.0
+- Dynamic theme colors scheme
 - Provider state management
 
 ## Development
