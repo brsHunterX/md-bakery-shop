@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:bakery_shop/shared/app_theme_colors.dart';
-
 class AppThemeLight {
   AppThemeLight._();
 
@@ -34,7 +32,7 @@ class AppThemeLight {
       outline: Color(0xff827368),
       inverseSurface: Color(0xff352f2b),
       onInverseSurface: Color(0xfffaeee7),
-      inversePrimary: Color(0xffffb870),
+      inversePrimary: Color.fromRGBO(255, 184, 112, 1),
       primaryVariant: Color(0xff89510d),
       secondaryVariant: Color(0xff735943),
       surfaceTint: Color(0xff89510d)

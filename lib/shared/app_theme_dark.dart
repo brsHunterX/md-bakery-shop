@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:bakery_shop/shared/app_theme_colors.dart';
-
 class AppThemeDark {
   AppThemeDark._();
 
